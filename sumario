@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>sumario</title>
+  
+  <style>
+     body{
+      background-color:FFE4E1 ;
+    }
+    h1,h2{
+      font-family: Arial, Helvetica, sans-serif;
+      color: 800000;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Top 5 melhores músicas da Lana del Rey</h1>
+  <h2>Sad girl</h2>
+  <p> "But you haven't seen my man (man)
+You haven't seen my man (man, man)
+You haven't seen my man (man)
+You haven't seen him (woah-oh)
+He's got the fire
+And he walks with it
+He's got the fire
+And he talks with it
+His Bonnie on the side, Bonnie on the side
+Makes me a sad, sad girl
+His money on the side, money on the side
+Makes me a sad, sad girl
+I'm a sad girl
+I'm a sad girl
+I'm a sad girl
+I'm a sad girl
+I'm a bad girl
+I'm a bad girl"
+</p>
+  <h2>Shades of cool</h2>
+  <p> "My baby lives in shades of blue
+Blue eyes and jazz and attitude
+He lives in California too
+He drives a Chevy Malibu
+And when he calls, he calls for me and not for you
+He lives for love, he loves his drugs, he loves his baby too
+But I can't fix him, can't make him better
+And I can't do nothing about his strange weather
+But you are unfixable
+I can't break through your world
+'Cause you live in shades of cool
+Your heart is unbreakable"</p>
+  <h2>Pretty when you cry</h2>
+  <p> "All the pretty stars shine for you, my love
+Am I the girl that you dream of?
+All those little times you said that I'm your girl
+You make me feel like your whole world
+I'll wait for you, babe, that's all I do, babe
+Don't come through, babe, you never do
+Because I'm pretty when I cry
+I'm pretty when I cry
+I'm pretty when I cry
+I'm pretty when I cry
+"</p>
+  <h2>Art deco</h2>
+  <p>" Club queen on the downtown scene
+Prowling around at night
+You're not mean, you just want to be seen
+Want to be wild
+A little party never hurt no one, that's why it's alright
+You want in but you just can't win
+So you hang in the likes
+You're so Art Deco, out on the floor
+Shining like gun metal, cold and unsure
+Baby, you're so ghetto
+You're looking to score
+When they all say hello
+You try to ignore them
+'Cause you want more (why?)
+You want more (why?)
+You want more (why?)
+'Cause you want more
+"</p>
+  
+
+
+  <script src="script.js"></script>
+
+
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script>
+</body>
+
+</html>
